@@ -1,4 +1,3 @@
-// comentario de prueba
 <?php
 $to = "tumail@educacionit.com";
 $subject = "Mail desde el formulario";
